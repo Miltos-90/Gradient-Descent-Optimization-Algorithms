@@ -1,6 +1,6 @@
 # Gradient-Descent
 
-An implementation of the following gradient descent optimization algorithms:
+A Matlab implementation of the following gradient descent optimization algorithms:
 1. Stochastic Gradient Descent (SGD)
 2. SGD w/ Momentum
 3. Nesterov Accelerated Gradient
@@ -12,4 +12,4 @@ An implementation of the following gradient descent optimization algorithms:
 9. Nadam
 10. AMSGrad
 
-in Matlab Live Editor
+Full code and all outputs can be found in the Gradient_Descent.pdf file
